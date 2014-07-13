@@ -4,61 +4,61 @@
   <unicode hex="0062"/>
   <outline>
     <contour>
-      <point x="120" y="852" type="move"/>
-      <point x="137" y="858"/>
-      <point x="158" y="847"/>
-      <point x="158" y="829" type="curve" smooth="yes"/>
-      <point x="158" y="811"/>
+      <point x="97" y="383" type="curve"/>
+      <point x="96" y="382"/>
+      <point x="146" y="486"/>
+      <point x="272" y="482" type="curve"/>
+      <point x="404" y="479"/>
+      <point x="463" y="379"/>
+      <point x="476" y="305" type="curve"/>
+      <point x="490" y="241"/>
+      <point x="487" y="133"/>
+      <point x="429" y="59" type="curve" smooth="yes"/>
+      <point x="332" y="-66"/>
+      <point x="126" y="13"/>
+      <point x="112" y="20" type="curve" smooth="yes"/>
+      <point x="98" y="27"/>
+      <point x="107" y="94"/>
+      <point x="117" y="86" type="curve" smooth="yes"/>
+      <point x="127" y="78"/>
+      <point x="207" y="-1"/>
+      <point x="326" y="25" type="curve"/>
+      <point x="384" y="44"/>
+      <point x="414" y="123"/>
+      <point x="420" y="170" type="curve" smooth="yes"/>
+      <point x="428" y="231"/>
+      <point x="422" y="311"/>
+      <point x="366" y="376" type="curve"/>
+      <point x="302" y="444"/>
+      <point x="223" y="449"/>
+      <point x="178" y="433" type="curve"/>
+      <point x="104" y="396"/>
+      <point x="127" y="337"/>
+      <point x="126" y="329" type="curve"/>
+      <point x="124" y="327"/>
+      <point x="122" y="326"/>
+      <point x="119" y="325" type="curve"/>
+      <point x="110" y="322"/>
+      <point x="96" y="382"/>
+    </contour>
+    <contour>
+      <point x="147" y="746" type="line"/>
+      <point x="139" y="494"/>
+      <point x="143" y="352"/>
+      <point x="141" y="-2" type="curve"/>
+      <point x="71" y="-2" type="line"/>
+      <point x="79" y="229"/>
+      <point x="81" y="480"/>
+      <point x="79" y="679" type="curve"/>
+      <point x="27" y="670" type="line"/>
+      <point x="24" y="687" type="line"/>
+      <point x="126" y="743" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>brightness</key>
-              <integer>0</integer>
-              <key>contrast</key>
-              <integer>1</integer>
-              <key>path</key>
-              <string>/var/folders/rz/fqy0fsxd6839316wdj5w5k0c0000gn/T/tmpvX3dy8</string>
-              <key>saturation</key>
-              <integer>1</integer>
-              <key>sharpness</key>
-              <real>0.4</real>
-              <key>transform</key>
-              <array>
-                <real>0.38699690402476783</real>
-                <real>0.0</real>
-                <real>0.0</real>
-                <real>0.38699690402476783</real>
-                <real>-62.0</real>
-                <real>-69.0</real>
-              </array>
-            </dict>
-          </dict>
-          <key>name</key>
-          <string>b</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>500</integer>
-        </dict>
         <key>sample</key>
         <dict>
           <key>anchors</key>
