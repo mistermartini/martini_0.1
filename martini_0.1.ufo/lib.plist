@@ -19,14 +19,6 @@
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>
-		<string>sample</string>
-	</array>
-	<key>com.typemytype.robofont.sample.layerStrokeColor</key>
-	<array>
-		<real>0.2341</real>
-		<real>0.5261</real>
-		<real>1.0</real>
-		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
